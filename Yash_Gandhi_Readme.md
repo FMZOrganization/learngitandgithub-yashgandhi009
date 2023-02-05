@@ -28,7 +28,7 @@ Here are some basics of GitHub:
 
 ----
 
-#Here are some basic Git commands that are commonly used on GitHub:
+# Here are some basic Git commands that are commonly used on GitHub:
 
 **git clone:**
 This command is used to copy a repository from a remote location to your local machine.
